@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "--Distressed Venues with Verified Decline--\n\nEstablished, well-reviewed restaurants, bars, and cafes now experiencing a sharp and confirmed drop in Transaction Velocity & Customer Sentiment.\n\nThese are previously high-performing venues where the 360-day sentiment was strong, but 90-day sentiment has crashed by 30%+.\n\nThat's a leading indicator of operational trouble, ownership fatigue, or market-ready distress.\n\nEvery listing is an independent hospitality and food & beverage location (no nation-wide chains), confirmed active with 100+ total reviews and an \"Active Heartbeat\" signal within the last 90 days.",
   "config_name": "Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Vermont",
-  "export_job_id": "3020894d-8bd1-4f8a-8206-bd3acd7a6977",
+  "export_job_id": "326f26db-8fc2-4d99-ab8e-24fba87e7162",
   "github_org": "Beamstation-Datasets",
   "id_short": 996016,
   "location_name": "Vermont",
   "location_type": "state",
   "repo_name": "independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-996016",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/996016/beamstation_996016_food_and_drink-us-vt_SAMPLE_DIST.csv",
-  "sample_pct": 9.3,
+  "sample_pct": 8.7,
   "sample_records": 4,
-  "sample_sha256": "f7617b6215969dfac8f138bd3fd41766ff6e08c668656842f59d1846c0a2d97e",
-  "sample_size_bytes": 30465,
-  "total_records": 43,
-  "updated_at": "2026-04-09T18:44:33.808548+00:00"
+  "sample_sha256": "9e0f9b0776ce11a662db2fcdf83af08a96aaf9fb3f04e25ba7eae7c7224adc34",
+  "sample_size_bytes": 30746,
+  "total_records": 46,
+  "updated_at": "2026-04-16T21:49:08.247896+00:00"
 }
